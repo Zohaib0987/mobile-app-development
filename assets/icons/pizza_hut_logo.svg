@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150" height="150" viewBox="0 0 150 150" xmlns="http://www.w3.org/2000/svg">
+  <!-- Red circle background -->
+  <circle cx="75" cy="75" r="70" fill="#E31837"/>
+  
+  <!-- Pizza slice (white) -->
+  <path d="M75 25 L120 110 L30 110 Z" fill="white"/>
+  
+  <!-- Text "Pizza Hut" -->
+  <text x="75" y="135" font-family="Arial" font-size="16" font-weight="bold" fill="white" text-anchor="middle">
+    Pizza Hut
+  </text>
+</svg> 
